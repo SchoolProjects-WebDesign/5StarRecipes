@@ -85,7 +85,7 @@ p {
 }
 
 #recipeOfTheWeekText {
-    text-decoration-color: blue;
+    color: blue;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
